@@ -1,0 +1,135 @@
+/*Navbar*/
+
+header{
+	position: absolute;
+	background: #000000;
+	width: 100%;
+	height: 10%;
+	left: 0px;
+	top: 0px;
+}
+
+#accueil{
+position: absolute;
+width: 104px;
+height: 28px;
+left: 1200px;
+top: 42px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #E5E5E5;
+}
+
+
+#realisations{
+position: absolute;
+width: 104px;
+height: 28px;
+left: 1400px;
+top: 42px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #E5E5E5;
+}
+
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+/* Sections*/
+
+article{
+	color:black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact{
+	position: absolute;
+	display:flex;
+align-items: center;
+justify-content: center;
+	width: 35%;
+	height: 55%;
+	left:0px;
+	top: 10%;
+	
+	background: #FFFFFF;
+	
+	
+	}
+
+#hello{
+	position: absolute;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	width: 65%;
+	height: 35%;
+	left: 35%;
+	top: 10%;
+	
+	background: #F4F4F4;
+
+}
+
+#aboutMe{
+position: absolute;
+display:flex;
+	align-items: center;
+	justify-content: center;
+width: 35%;
+height: 55%;
+left: 0px;
+top: 45%;
+
+background: #F4F4F4;
+}
+
+#portfolio{
+
+position: absolute;
+display:flex;
+align-items: center;
+justify-content: center;
+width: 65%;
+height: 55%;
+left: 35%;
+top: 45%;
+
+background: #FFFFFF;
+}
+
+#photo{
+	border:2px solid black;
+	border-radius: 1000px;
+	width: 40%;
+	height:50%;
+	left: 50px;
+	top: 50px;
+}
+
+.image{
+
+	height:250px;
+	width:250px;
+	z-index: 1;
+
+	
+
+}
+
