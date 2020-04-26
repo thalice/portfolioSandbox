@@ -13,31 +13,47 @@ header{
 position: absolute;
 width: 104px;
 height: 28px;
+left: 1000px;
+top: 42px;
+
+font-family: 'Waiting for the Sunrise', cursive; 
+font-style: normal;
+font-weight: bold;
+font-size: 2.5em;
+line-height: 20px;
+
+color: #E5E5E5;
+}
+
+#cv{
+position: absolute;
+width: 104px;
+height: 28px;
 left: 1200px;
 top: 42px;
 
-font-family: Roboto;
+font-family: 'Waiting for the Sunrise', cursive; 
 font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 28px;
+font-weight: bold;
+font-size: 2.5em;
+line-height: 20px;
 
 color: #E5E5E5;
 }
 
 
-#realisations{
+#portfolio{
 position: absolute;
 width: 104px;
 height: 28px;
 left: 1400px;
 top: 42px;
 
-font-family: Roboto;
+font-family: 'Waiting for the Sunrise', cursive; 
 font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 28px;
+font-weight: bold;
+font-size: 2.5em;
+line-height: 20px;
 
 color: #E5E5E5;
 }
@@ -55,7 +71,7 @@ a{
 
 article{
 	color:black;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: Roboto;
 }
 
 #contact{
@@ -86,6 +102,18 @@ justify-content: center;
 	background: #F4F4F4;
 
 }
+#jeSuis{
+	position:sticky;
+	
+}
+
+#transition{
+	font-family: 'Waiting for the Sunrise', cursive; 
+	font-weight:bold;
+	font-size: 3em;
+	color:rgb(172, 3, 172);
+}
+
 
 #aboutMe{
 position: absolute;
@@ -100,7 +128,7 @@ top: 45%;
 background: #F4F4F4;
 }
 
-#portfolio{
+#portfolioSection{
 
 position: absolute;
 display:flex;
