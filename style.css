@@ -16,13 +16,13 @@ height: 28px;
 left: 1000px;
 top: 42px;
 
-font-family: 'Waiting for the Sunrise', cursive; 
+font-family: Roboto;
 font-style: normal;
-font-weight: bold;
-font-size: 2.5em;
-line-height: 20px;
+font-size: x-large;
+line-height: 28px;
 
 color: #E5E5E5;
+border: 2px solid red; 
 }
 
 #cv{
@@ -32,11 +32,10 @@ height: 28px;
 left: 1200px;
 top: 42px;
 
-font-family: 'Waiting for the Sunrise', cursive; 
+font-family: Roboto;
 font-style: normal;
-font-weight: bold;
-font-size: 2.5em;
-line-height: 20px;
+font-size: x-large;
+line-height: 28px;
 
 color: #E5E5E5;
 }
@@ -49,11 +48,10 @@ height: 28px;
 left: 1400px;
 top: 42px;
 
-font-family: 'Waiting for the Sunrise', cursive; 
+font-family: Roboto;
 font-style: normal;
-font-weight: bold;
-font-size: 2.5em;
-line-height: 20px;
+font-size: x-large;
+line-height: 28px;
 
 color: #E5E5E5;
 }
@@ -100,10 +98,16 @@ justify-content: center;
 	top: 10%;
 	
 	background: #F4F4F4;
+	
 
 }
 #jeSuis{
-	position:sticky;
+	position: fixed;
+    right: center;
+    left: center;
+
+	width: 40%;
+
 	
 }
 
@@ -112,6 +116,9 @@ justify-content: center;
 	font-weight:bold;
 	font-size: 3em;
 	color:rgb(172, 3, 172);
+	padding-left: 10px;
+	text-align: center;
+
 }
 
 
