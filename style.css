@@ -13,7 +13,7 @@ header{
 position: absolute;
 width: 104px;
 height: 28px;
-left: 1000px;
+left: 800px;
 top: 42px;
 
 font-family: Roboto;
@@ -22,7 +22,6 @@ font-size: x-large;
 line-height: 28px;
 
 color: #E5E5E5;
-border: 2px solid red; 
 }
 
 #cv{
@@ -105,9 +104,7 @@ justify-content: center;
 	position: fixed;
     right: center;
     left: center;
-
 	width: 40%;
-
 	
 }
 
