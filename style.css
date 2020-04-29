@@ -9,6 +9,10 @@ header{
 	top: 0px;
 }
 
+body{
+	background-color: black;
+}
+
 #accueil{
 position: absolute;
 width: 104px;
@@ -162,6 +166,41 @@ background: #FFFFFF;
 	z-index: 1;
 
 	
+
+}
+
+/*test*/
+#test{
+	position: absolute;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	width: 30%;
+	height: 50%;
+	left: 75%;
+	top: 10%;
+
+	background:black;
+
+}
+
+
+#test1{
+	position: fixed;
+    right: center;
+    left: center;
+	width: 40%;
+	color: white;
+	
+}
+
+#test2{
+	font-family: 'Waiting for the Sunrise', cursive; 
+	font-weight:bold;
+	font-size: 3em;
+	color:rgb(172, 3, 172);
+	padding-left: 10px;
+	text-align: center;
 
 }
 
