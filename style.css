@@ -20,7 +20,7 @@ height: 28px;
 left: 800px;
 top: 42px;
 
-font-family: Roboto;
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: normal;
 font-size: x-large;
 line-height: 28px;
@@ -35,7 +35,7 @@ height: 28px;
 left: 1000px;
 top: 42px;
 
-font-family: Roboto;
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: normal;
 font-size: x-large;
 line-height: 28px;
@@ -51,7 +51,7 @@ height: 28px;
 left: 1200px;
 top: 42px;
 
-font-family: Roboto;
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: normal;
 font-size: x-large;
 line-height: 28px;
@@ -171,24 +171,22 @@ background: #FFFFFF;
 
 /*test*/
 #test{
-	position: absolute;
+	
 	display:flex;
 	align-items: center;
 	justify-content: center;
-	width: 30%;
-	height: 50%;
-	left: 75%;
-	top: 10%;
-
+	width:500px;
+	height:1000px;
 	background:black;
+	
 
 }
 
 
 #test1{
-	position: fixed;
+	position: absolute;
     right: center;
-    left: center;
+    top:center;
 	width: 40%;
 	color: white;
 	
@@ -202,14 +200,30 @@ background: #FFFFFF;
 	padding-left: 10px;
 	text-align: center;
 
+
 }
 
 #imgTest{
-height:100%;
-width: auto;
+	height:1000px;
+	width: auto;
 }
 
 a:hover{
 	color:rgb(78, 233, 253);
 }
 
+#divTest{
+	margin-top: 5%;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+
+#textTest{
+
+	padding:20px;
+	color:white;
+}
+	
