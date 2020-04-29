@@ -176,7 +176,7 @@ background: #FFFFFF;
 	align-items: center;
 	justify-content: center;
 	width:500px;
-	height:1000px;
+	height:600px;
 	background:black;
 	
 
@@ -204,7 +204,7 @@ background: #FFFFFF;
 }
 
 #imgTest{
-	height:1000px;
+	height:600px;
 	width: auto;
 }
 
@@ -223,7 +223,7 @@ a:hover{
 
 #textTest{
 
-	padding:20px;
+	padding:30px;
 	color:white;
 }
 	
