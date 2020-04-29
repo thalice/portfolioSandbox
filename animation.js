@@ -1,4 +1,4 @@
-const node = document.getElementById("transition")
+const node = document.getElementById("test2")
 
 let
   words = ['ALICE','UX Designer','adepte de montagne','contente de vous voir'],
