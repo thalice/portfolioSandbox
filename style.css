@@ -204,3 +204,12 @@ background: #FFFFFF;
 
 }
 
+#imgTest{
+height:100%;
+width: auto;
+}
+
+a:hover{
+	color:rgb(78, 233, 253);
+}
+
