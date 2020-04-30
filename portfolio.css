@@ -9,58 +9,56 @@ header{
 	top: 0px;
 }
 
+
+
 #accueil{
-	position: absolute;
-	width: 104px;
-	height: 28px;
-	left: 1000px;
-	top: 42px;
-	
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	line-height: 28px;
-	
-	color: #E5E5E5;
-	}
-	
-	#cv{
-	position: absolute;
-	width: 104px;
-	height: 28px;
-	left: 1200px;
-	top: 42px;
-	
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	line-height: 28px;
-	
-	color: #E5E5E5;
-	}
-	
-	
-	#portfolio{
-	position: absolute;
-	width: 104px;
-	height: 28px;
-	left: 1400px;
-	top: 42px;
-	
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	line-height: 28px;
-	
-	color: #E5E5E5;
-	}
+position: absolute;
+width: 104px;
+height: 28px;
+left: 800px;
+top: 42px;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-size: x-large;
+line-height: 28px;
+
+color: #E5E5E5;
+}
+
+#cv{
+position: absolute;
+width: 104px;
+height: 28px;
+left: 1000px;
+top: 42px;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-size: x-large;
+line-height: 28px;
+
+color: #E5E5E5;
+}
+
+
+#portfolio{
+position: absolute;
+width: 104px;
+height: 28px;
+left: 1200px;
+top: 42px;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-size: x-large;
+line-height: 28px;
+
+color: #E5E5E5;
+}
 
 ul{
 	list-style: none;
-	display: inline-flex;
 }
 
 a{
@@ -69,6 +67,6 @@ a{
 }
 
 div{
-    margin-top: 200px;
-}
+margin:20%;
 
+}

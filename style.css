@@ -175,9 +175,10 @@ background: #FFFFFF;
 	display:flex;
 	align-items: center;
 	justify-content: center;
-	width:500px;
+	width:100%;
 	height:600px;
 	background:black;
+	
 	
 
 }
@@ -187,7 +188,7 @@ background: #FFFFFF;
 	position: absolute;
     right: center;
     top:center;
-	width: 40%;
+	width: 50%;
 	color: white;
 	
 }
@@ -199,6 +200,7 @@ background: #FFFFFF;
 	color:rgb(172, 3, 172);
 	padding-left: 10px;
 	text-align: center;
+	
 
 
 }
