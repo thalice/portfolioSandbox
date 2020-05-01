@@ -1,7 +1,7 @@
 const node = document.getElementById("test2")
 
 let
-  words = ["UX Designer","plus réALICE qu'idéALICE","maman dévouée","plus familiALICE que traditionnALICE","vogageuse dans l'âme","plus spirituALICE que phénoménALICE"],
+  words = ["UX Designer","plus réALICE qu'idéaliste.","maman dévouée","familiALICE et non traditionnaliste.","vogageuse dans l'âme","spirituALICE plutôt que matérialiste."],
   part,
   i = 0,
   offset = 0,
